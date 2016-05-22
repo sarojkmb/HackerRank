@@ -10,5 +10,6 @@ public class Day5Solution {
         for(int i=1;i<=10;i++){
             System.out.println(N+" x "+i+" = "+N*i);
         }
+        in.close();
     }
 }
